@@ -1,6 +1,6 @@
 package database
 
-import "tio_model/database/model"
+import "tiomodel/database/model"
 
 // TioDb DB接口
 type TioDb interface {
