@@ -1,4 +1,4 @@
-module tio-model
+module tio_model
 
 go 1.13
 

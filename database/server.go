@@ -3,7 +3,7 @@ package database
 import (
 	"errors"
 
-	"tio-model/database/postgresql"
+	"tio_model/database/postgresql"
 )
 
 // GetDBClient 获取指定的数据库连接

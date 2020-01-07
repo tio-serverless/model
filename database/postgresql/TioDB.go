@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"tio-model/database/model"
+	"tio_model/database/model"
 
 	_ "github.com/lib/pq"
 	"github.com/sirupsen/logrus"
